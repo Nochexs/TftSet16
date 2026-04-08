@@ -1,30 +1,21 @@
 {
   "champions": [
     {
-      "id": "TFT17_Yasuo",
-      "name": "Yasuo",
-      "cost": 2,
+      "id": "TFT16_Aatrox",
+      "name": "Aatrox",
+      "cost": 5,
+      "tier": "S",
+      "frame": "yellow"
+      "icon": "https://raw.communitydragon.org/latest/game/assets/ux/tft/championsplashes/patching/tft16_aatrox_square.tft_set16.png",
+      },
+      {
+      "id": "TFT16_",
+      "name": "",
+      "cost": 5,
       "tier": "C",
-      "icon": "https://raw.communitydragon.org/latest/game/assets/ux/tft/championsplashes/patching/tft16_yasuo_square.tft_set16.png",
-      "traits": [
-        "Exile",
-        "Blademaster"
-      ],
-      "stats": {
-        "hp": [700, 1260, 2268],
-        "ad": [65, 98, 146],
-        "as": 0.8,
-        "range": 1
+      "frame": "green"
+      "icon": "https://raw.communitydragon.org/latest/game/assets/ux/tft/championsplashes/patching/tft16_aatrox_square.tft_set16.png",
       },
-      "ability": {
-        "name": "Son Nefes",
-        "desc": "Hedefine atılarak hasar verir.",
-        "damage": [200, 300, 500]
-      },
-      "patch_notes": {
-        "status": "Buff",
-        "change": "Taban AD artırıldı."
-      }
-    }
+    
   ]
 }
