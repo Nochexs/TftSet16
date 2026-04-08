@@ -3,7 +3,7 @@
     {
       "id": "TFT17_Yasuo",
       "name": "Yasuo",
-      "cost": 4,
+      "cost": 2,
       "traits": ["Exile", "Blademaster"],
       "stats": {
         "hp": [700, 1260, 2268],
