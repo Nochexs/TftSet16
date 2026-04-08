@@ -1,0 +1,25 @@
+{
+  "champions": [
+    {
+      "id": "TFT17_Yasuo",
+      "name": "Yasuo",
+      "cost": 4,
+      "traits": ["Exile", "Blademaster"],
+      "stats": {
+        "hp": [700, 1260, 2268],
+        "ad": [65, 98, 146],
+        "as": 0.8,
+        "range": 1
+      },
+      "ability": {
+        "name": "Son Nefes",
+        "desc": "Hedefine atılarak hasar verir.",
+        "damage": [200, 300, 500]
+      },
+      "patch_notes": {
+        "status": "Buff",
+        "change": "Taban AD artırıldı."
+      }
+    }
+  ]
+}
