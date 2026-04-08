@@ -4,6 +4,7 @@
       "id": "TFT17_Yasuo",
       "name": "Yasuo",
       "cost": 2,
+      "tier": "C"
       "icon": "https://raw.communitydragon.org/latest/game/assets/ux/tft/championsplashes/patching/tft16_yasuo_square.tft_set16.png",
       "traits": ["Exile", "Blademaster"],
       "stats": {
